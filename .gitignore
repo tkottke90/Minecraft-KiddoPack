@@ -1,0 +1,15 @@
+# Directories
+natives
+local
+saves
+logs
+screenshots
+
+
+# Mods
+minecolonies
+structurize
+woot
+Minecraft/.minecraft/journeymap/data/
+Minecraft/.minecraft/journeymap/server/
+journeymap.log
